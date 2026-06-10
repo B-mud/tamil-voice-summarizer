@@ -55,7 +55,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 st.markdown('<div class="header-container">', unsafe_allow_html=True)
-st.title("🎙️ Tamil Voice Note Summarizer")
+st.title("🎙️ Tamil Voice Note Summarizer By Jagadeesh")
 st.markdown('<p class="subtitle">Convert spoken Tamil audio into clear, organized English insights instantly.</p>', unsafe_allow_html=True)
 st.markdown('</div>', unsafe_allow_html=True)
 
